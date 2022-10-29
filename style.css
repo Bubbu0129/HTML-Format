@@ -1,0 +1,28 @@
+body {
+  max-width: 800px;
+  margin: 0 auto;
+}
+  
+.sender-column {
+  text-align: right;
+}
+  
+h1 {
+  text-align: center;
+  font-size: 1.5em;
+}
+  
+h2 {
+  font-size: 1.3em;
+}
+  
+p, li{
+  font-size: 1.2em;
+}
+  
+.note, address {
+  font-style:italic;
+  color: darkgray;
+  font-size: 1em;
+  line-height: 1.2;
+}
